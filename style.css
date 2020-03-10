@@ -1,18 +1,8 @@
 body{background-color:rgb(white);}
 
-.lake{
-  padding: 9.5em 20em;
-  background-image: url(https://wallpapercave.com/wp/PzaH3FR.jpg);
-  background-repeat: no-repeat;
-  background-size:cover;
-  width: 1000px;
-  height: 550px;
-  margin: 0em;
-  margin-left:12.5em;}
-
 .card-text{text-align:center;font-family: "damion"}
-p{font-family: "damion";}
-b{font-size: 38px;}
+p{font-family:fantasy;}
+b{font-size: 22px;}
 
 .bg-light{margin-right: 0em;
   margin: 0;}
@@ -27,4 +17,7 @@ font-size: 30px;color: black;}
 
 footer{text-align: center;background-color: white;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: black;}
 
-
+/* loading bar annd font sizing */
+h1{font-size: 60px;color:black;font-family: fantasy;}
+.w-100{width: 100%; background-color: white;}
+.jumbotron{margin-bottom: 14rem; background-color: #e9ecef;margin-top: 52px;}
