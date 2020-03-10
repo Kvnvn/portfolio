@@ -1,18 +1,21 @@
-body{background-color: white;}
+body{background-color:rgb(white);}
 
 .photopic{width:219px
 }
 .coronado{
-  padding: 10.5em 0;
+  padding: 9.5em 20em;
   background-image: url(https://scontent-lax3-2.xx.fbcdn.net/v/t1.15752-9/89857372_645212506303277_2622241438749949952_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=Ka2zJBYTVBoAX8nCpCG&_nc_ht=scontent-lax3-2.xx&oh=3937a47653da5b1211bef2bba7c6c5ef&oe=5E92F9C8);
   background-repeat: no-repeat;
   background-size:cover;
-  width: 1300px;
+  width: 1000px;
   height: 550px;
-  margin: 2em;}
+  margin: 0em;
+  margin-left:12.5em;}
 
-p{text-align:center;
-font-family: Georgia, Times, 'Times New Roman', serif;}
+.card-text{text-align:center;
+font-family: "damion"}
+
+p{font-family: "damion";}
 
 b{font-size: 38px;}
 
