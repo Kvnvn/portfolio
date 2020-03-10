@@ -1,0 +1,17 @@
+
+
+    h5{font-family: "damion";font-size: 40px;}
+    p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 23px;}
+    b{font-size: 38px;}
+
+    .bg-light{margin-right: 0em;
+      margin: 0;}
+    .navbar-expand-lg{background-color:white;}
+    .navbar-brand{font-size:3.5rem;font-family:"damion";color: black;}
+    .nav-item{font-family: "damion";
+    font-size: 30px;color: black;}
+
+    .display-4{font-family: "damion"; font-size: 60px; color: grey;
+    }
+
+    .card-body{background-color: black;color:white}
