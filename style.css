@@ -1,4 +1,12 @@
 
+.coronado{ padding: 1.5em 18em;
+  background-image: url(https://scontent-lax3-1.xx.fbcdn.net/v/t1.15752-9/89560947_208788900529539_1722096149835284480_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=YmLohBuocbYAX8Bn76_&_nc_ht=scontent-lax3-1.xx&oh=58ae505a8825ffa4234364d1640b9f84&oe=5E9707E8);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 500px;
+  height: 550px;
+  margin: 2em;
+  margin-left:0.5em;}
 
     h5{font-family: "damion";font-size: 40px;}
     p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 23px;}
