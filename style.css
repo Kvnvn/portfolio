@@ -1,0 +1,37 @@
+
+body{background-color: white;}
+
+.photopic{width:219px
+}
+.forest{
+  background-image: url(https://scontent-lax3-1.xx.fbcdn.net/v/t1.15752-9/89465683_591351704793257_1497233562254966784_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=oXd1cCM7vYoAX_Zubre&_nc_ht=scontent-lax3-1.xx&oh=5f2401dd765679553ddb0294015329a4&oe=5E987544);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 1000px;
+  height: 550px;
+  margin: 0em;
+  margin-left:12.5em;}
+
+p{font-family: "damion"}
+
+b{font-size: 38px;}
+
+.bg-light{margin-right: 0em;
+  margin: 0;}
+
+.navbar-brand{font-size:3.5rem;font-family:"damion";}
+.nav-item{font-family: "damion";
+font-size: 30px;}
+
+.card-header{font-family: "damion";
+font-size: 30px;}
+
+.btn{color:white;}
+.btn-primary{background-color: black;}
+
+ul{text-align:left;
+    margin:15em;
+margin-bottom:1em;
+margin-top:0em;
+font-family: "damion";
+font-size: 25px;}
