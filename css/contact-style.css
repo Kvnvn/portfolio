@@ -13,15 +13,24 @@
     b{font-size: 38px;}
     a{color: white;}
 
-/* navbar */
+
     .bg-light{margin-right: 0em;
       margin: 0;}
     .navbar-expand-lg{background-color:white;}
     .navbar-brand{font-size:3.5rem;font-family:"damion";color: black;}
     .nav-item{font-family: "damion";
     font-size: 30px;color: black;}
-
     
+
+   /* nav bar area */
+  .navbar-light .navbar-nav .nav-link{color:black;}
+  .navbar-minimize{font-size:3.5rem;font-family:"damion";}
+  .nav-item{font-family: "damion";font-size: 30px;color: #007bff;}
+
+  .navbar-expand-lg{background-color:white;}
+    .navbar-nav{font-size:3.5rem;font-family:"damion";color: black;}
+    .nav-minimize{font-family: "damion";
+      font-size: 30px;color: black;} 
     
 
     
