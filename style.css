@@ -18,7 +18,7 @@ b{font-size: 38px;font-family:"damion";}
     .nav-item{font-family: "damion";
       font-size: 30px;color: black;}
       
-      /* added row and columns for about me */
+  /* added row and columns for about me */
 h1{margin-inline-start: 176px;font-family: "damion";text-align: center;}
 img{height: 800px;width: 450px;margin: -89px;margin-top: 10px;}
 
@@ -35,7 +35,7 @@ p{margin-top: 0;
  .col-sm-6{float: left;padding: 59px;}
  p{margin-bottom: -4rem;font-size: 19px;}
 }
-
+/* smaller sizing*/
 @media (max-width: 400px) {
   .nav-minimize {display: none !important;}
 }
