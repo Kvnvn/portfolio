@@ -19,12 +19,24 @@ b{font-size: 38px;font-family:"damion";}
 font-size: 30px;color: black;}
 
 /* added row and columns for about me */
-h1{margin-inline-start: 176px;font-family: "damion";}
+h1{margin-inline-start: 176px;font-family: "damion";text-align: center;}
 
 img{height: 800px;width: 450px;margin: -89px;margin-top: 10px;}
 
 p{margin-top: 0;
   margin-bottom: -16rem;
-  PADDING: 95PX;
+  PADDING: 63PX;
   text-align: justify;
   font-size: 20px;}
+
+.row:after{display: table-column;
+clear:both}
+
+.col-3{float: left;}
+.col-6{float: left;}
+
+@media screen and (min-width: 500px){ 
+  .container{width: 100%; height: auto;}
+ .col-sm-6{float: left;padding: 59px;}
+ p{margin-bottom: -4rem;font-size: 19px;}
+}
