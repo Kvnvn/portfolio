@@ -35,8 +35,17 @@ clear:both}
 .col-3{float: left;}
 .col-6{float: left;}
 
+/* Media Query */
 @media screen and (min-width: 500px){ 
   .container{width: 100%; height: auto;}
  .col-sm-6{float: left;padding: 59px;}
  p{margin-bottom: -4rem;font-size: 19px;}
+}
+
+@media (min-width: 768px) {
+  .nav-disappear {display: none !important;}
+}    
+
+@media (max-width: 768px) {
+  .tab-disappear {display: none !important;}
 }
