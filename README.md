@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # kvnvn.github.io
 Personal Webpage on html
 -index 
@@ -19,3 +20,9 @@ css sheet styling html page with minimizing page to certain sizes
 links to websites: linkedin, email, github
 
 >>>>>>> oldContact/master
+=======
+# portfolio
+Portfolio html
+includes text with bootstrap loading bar 
+css sheet includes styling of html
+>>>>>>> oldPortfolio/master
