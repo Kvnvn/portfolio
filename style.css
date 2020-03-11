@@ -1,4 +1,4 @@
-
+/* picture plus main content area */
 .coronado{ padding: 1.5em 18em;
   background-image: url(https://scontent-lax3-1.xx.fbcdn.net/v/t1.15752-9/89560947_208788900529539_1722096149835284480_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=YmLohBuocbYAX8Bn76_&_nc_ht=scontent-lax3-1.xx&oh=58ae505a8825ffa4234364d1640b9f84&oe=5E9707E8);
   background-repeat: no-repeat;
@@ -13,7 +13,7 @@
     b{font-size: 38px;}
     a{color: white;}
 
-
+/* navbar */
     .bg-light{margin-right: 0em;
       margin: 0;}
     .navbar-expand-lg{background-color:white;}
@@ -21,14 +21,8 @@
     .nav-item{font-family: "damion";
     font-size: 30px;color: black;}
 
-    .display-4{font-family: "damion"; font-size: 60px; color: grey;
-    }
-
-    .card-body{background-color: black;color:white}
     
-    .img-fluid{max-width: 100%;
-    height: auto;
-    margin-left: -79px;}
+    
 
     
 
