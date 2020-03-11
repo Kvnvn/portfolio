@@ -1,2 +1,3 @@
 # contacts
-contacts page fo info
+links to websites: linkedin, email, github
+
